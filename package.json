@@ -18,7 +18,7 @@
     "axios": "^0.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "ts-node": "^8.3.0",
     "tsconfig-paths": "^3.8.0",
     "typescript": "^3.6.2",
